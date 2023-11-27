@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=89cff0&height=300&section=header&text=koko%20&fontSize=50&animation=fadeIn&fontColor=f0f8ff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=89cff0&height=300&section=header&text=koko%20&fontSize=50&animation=fadeIn&fontColor=f0f8ff) -->
 
 
 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   
   <br>
   
